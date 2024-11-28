@@ -1,0 +1,42 @@
+#len1 {
+    margin: 0 auto;
+    font-size: 75px;
+    color: black;
+    font-weight: bold;
+}
+#len2 {
+    margin: 0 auto;
+    font-size: 75px;
+    color: black;
+    font-weight: normal;
+}
+#len3 {
+    margin: 0 auto;
+    font-size: 50px;
+    color: black;
+    font-weight: bold;
+}
+#len4 {
+    margin: 0 auto;
+    font-size: 50px;
+    color: black;
+    font-weight: normal;
+}
+#len5 {
+    margin: 0 auto;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+}
+#len6 {
+    margin: 0 auto;
+    font-size: 25px;
+    color: black;
+    font-weight: normal;
+}
+#len7 {
+    font-weight: bold;
+}
+#len8 {
+    font-weight: normal;
+}
