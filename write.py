@@ -43,7 +43,7 @@ def txt_read(txt_file, html_file):
 
 
 def size_1_wt_write(txt_contents, Thick):
-    global num  # numをグローバル変数として参照
+    global num  
     size_1_txt_contents = re.findall(r"<1>(.*?)</1>", txt_contents)
     write_context.append(f"    <div id='len{num}'>\n        <p>" + "</p><p>".join(size_1_txt_contents) + "</p>\n    </div>")
     css_write_context.append(f"#len{num} {{\n    font-weight: {Thick};\n}}")
