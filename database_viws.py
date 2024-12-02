@@ -35,6 +35,6 @@ if cur:
     cur.close()
 if conn:
     conn.close()
-現在位置の取得
+# 現在位置の取得
 
 
