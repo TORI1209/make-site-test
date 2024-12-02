@@ -21,7 +21,7 @@ def database_read():
 
     # 結果を表示
     for row in rows:
-        send_dic.append(row[1])
+        send_dic.append(row[2])
 
     # print (send_dic)
 
